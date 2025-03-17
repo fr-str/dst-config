@@ -72,3 +72,5 @@ ServerModSetup("623749604")
 ServerModSetup("797304209")
 -- Lazy Crafting
 ServerModSetup("928938995")
+-- Personal Chesters
+ServerModSetup("463740026")
