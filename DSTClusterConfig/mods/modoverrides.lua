@@ -1,4 +1,5 @@
 return {
+	["workshop-545254188"] = { configuration_options = { cancel_marblesuit_weight = true }, enabled = true },
 	["workshop-1101769273"] = { configuration_options = {}, enabled = true },
 	["workshop-2145842262"] = { configuration_options = {}, enabled = true },
 	["workshop-1185229307"] = {
