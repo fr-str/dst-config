@@ -82,3 +82,5 @@ ServerModSetup("797304209")
 ServerModSetup("928938995")
 -- Personal Chesters
 ServerModSetup("463740026")
+-- Repair Combine
+ServerModSetup("767776640")
