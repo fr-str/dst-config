@@ -1,11 +1,8 @@
 return {
-	["workshop-545254188"] = { configuration_options = { cancel_marblesuit_weight = true }, enabled = true },
-	["workshop-1101769273"] = { configuration_options = {}, enabled = true },
-	["workshop-2145842262"] = { configuration_options = {}, enabled = true },
 	["workshop-1185229307"] = {
 		configuration_options = {
 			CAMERA = true,
-			CAPTURE = true,
+			CAPTURE = false,
 			DAMAGE_NUMBERS = true,
 			DAMAGE_RESISTANCE = true,
 			FRAME_PHASES = true,
@@ -19,6 +16,23 @@ return {
 		},
 		enabled = true,
 	},
+	["workshop-1207269058"] = { configuration_options = {}, enabled = true },
+	["workshop-3437885230"] = {
+		configuration_options = {
+			ALLOW_FISHBOX = false,
+			ALLOW_PORTABLE = false,
+			BL_AMULET = true,
+			BL_HEATROCK = true,
+			BL_LANTERN = true,
+			BL_SHELLS = true,
+			BL_WINONA_REMOTE = true,
+			WORK_RANGE = 20,
+		},
+		enabled = true,
+	},
+	["workshop-545254188"] = { configuration_options = { cancel_marblesuit_weight = true }, enabled = true },
+	["workshop-1101769273"] = { configuration_options = {}, enabled = true },
+	["workshop-2145842262"] = { configuration_options = {}, enabled = true },
 	["workshop-1337321458"] = {
 		configuration_options = {
 			acorn_fudge = 0,

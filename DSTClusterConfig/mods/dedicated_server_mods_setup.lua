@@ -1,11 +1,15 @@
+-- Epic Healthbar
+ServerModSetup("1185229307")
+-- Simple Health Bar DST
+ServerModSetup("1207269058")
+-- W.I.N.bot/W.O.B.O.T Tweaks
+ServerModSetup("3437885230")
 -- Marble Walls
 ServerModSetup("545254188")
 -- Bats Begone
 ServerModSetup("1101769273")
 -- Walter reads the Bee Movie Script
 ServerModSetup("2145842262")
--- Epic Healthbar
-ServerModSetup("1185229307")
 -- Cluster Plant. Reborn!
 ServerModSetup("1337321458")
 -- Basements

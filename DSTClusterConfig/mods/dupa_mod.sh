@@ -1,13 +1,7 @@
 #!/bin/env bash
 
-# Check if an input file is provided as an argument
-if [ $# -eq 0 ]; then
-  echo "Usage: $0 <input_file>"
-  exit 1
-fi
-
-INPUT_FILE="$1"
-OUTPUT_FILE="dupa2.lua"
+INPUT_FILE="./modoverrides.lua"
+OUTPUT_FILE="dedicated_server_mods_setup.lua"
 
 if [ ! -f "$INPUT_FILE" ]; then
   echo "Error: Input file '$INPUT_FILE' not found."
