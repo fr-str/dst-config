@@ -838,4 +838,21 @@ return {
 	},
 	-- Personal Chesters
 	["workshop-463740026"] = { configuration_options = {}, enabled = true },
+	-- Repair Combine
+	["workshop-767776640"]={
+	    configuration_options={
+	      bonus=0,
+	      maxweapon=1,
+	      null=1,
+	      overmaxarmor=false,
+	      overmaxfiniteuses=false,
+	      overmaxfueled=false,
+	      overmaxperishable=false,
+	      repairarmor=true,
+	      repairfiniteuses=true,
+	      repairfueled=true,
+	      repairperishable=true 
+	    },
+	    enabled=true 
+	  },
 }
